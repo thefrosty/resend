@@ -1,6 +1,7 @@
 /dist
 /vendor
 /vendor-prefixed
+/wordpress
 /bin/strauss.phar
 /node_modules
 /public
